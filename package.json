@@ -100,7 +100,7 @@
     "ie-shim": "^0.1.0",
     "reflect-metadata": "^0.1.12",
     "rxjs": "^6.2.1",
-    "zone.js": "^0.8.26"
+    "zone.js": "^0.11.4"
   },
   "devDependencies": {
     "@angular-devkit/build-optimizer": "^0.6.8",
