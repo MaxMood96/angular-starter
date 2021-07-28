@@ -96,7 +96,7 @@
     "@angular/platform-server": "^6.0.6",
     "@angular/router": "^6.0.6",
     "core-js": "^2.5.7",
-    "http-server": "^0.11.1",
+    "http-server": "^0.12.3",
     "ie-shim": "^0.1.0",
     "reflect-metadata": "^0.1.12",
     "rxjs": "^6.2.1",
