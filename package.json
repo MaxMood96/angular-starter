@@ -88,8 +88,8 @@
   "dependencies": {
     "@angular/animations": "^6.0.6",
     "@angular/common": "^6.0.6",
-    "@angular/compiler": "^6.0.6",
-    "@angular/core": "^6.0.6",
+    "@angular/compiler": "^19.2.18",
+    "@angular/core": "^19.2.18",
     "@angular/forms": "^6.0.6",
     "@angular/platform-browser": "^6.0.6",
     "@angular/platform-browser-dynamic": "^6.0.6",
